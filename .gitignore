@@ -1,0 +1,5 @@
+﻿/EightPuzzle.sln
+*.dll
+EightPuzzle/obj
+*.idea
+EightPuzzle/bin
